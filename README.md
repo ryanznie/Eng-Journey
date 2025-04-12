@@ -7,6 +7,9 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[Wayfair] - Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team)
 * [[Wayfair] - Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data)**
 
+### Machine Learning
+* [[AirBnB] - Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839)
+
 ### Business / Misc
 * [[Unlearn.AI] - Top Secret Plan for AI in Medicine, Part 1](https://unlearnai.substack.com/p/top-secret-plan-for-ai-in-medicine)*
 * [[Unlearn.AI] - Top Secret Plan for AI in Medicine, Part 2: A unified model of human health.](https://unlearnai.substack.com/p/top-secret-plan-for-ai-in-medicine-46d)*
