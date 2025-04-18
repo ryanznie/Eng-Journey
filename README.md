@@ -9,6 +9,7 @@ Keeping track of interesting engineering blogs I have read and learned from.
 
 ### Machine Learning
 * [[AirBnB] - Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839)
+* [[Twitter] - Recommendation Algo](https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 
 ### Business / Misc
 * [[Unlearn.AI] - Top Secret Plan for AI in Medicine, Part 1](https://unlearnai.substack.com/p/top-secret-plan-for-ai-in-medicine)*
