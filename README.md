@@ -6,6 +6,7 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[Wayfair] - An Inside Look at Wayfair’s Data Engine, Scribe](https://www.aboutwayfair.com/careers/tech-blog/an-inside-look-at-wayfairs-data-engine-scribe)
 * [[Wayfair] - Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team)
 * [[Wayfair] - Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data)**
+* [[AirBnB] - Building a User Signals Platform at Airbnb](https://medium.com/airbnb-engineering/building-a-user-signals-platform-at-airbnb-b236078ec82b) (Lambda)
 
 ### Machine Learning
 * [[AirBnB] - Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839)
