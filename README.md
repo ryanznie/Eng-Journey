@@ -15,8 +15,9 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[Netflix] - Recommending for Long-Term Member Satisfaction at Netflix](https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef)
 
 ### LLMs / AI
-[[AirBnB] - Accelerating Large-Scale Test Migration with LLMs](https://airbnb.tech/uncategorized/accelerating-large-scale-test-migration-with-llms/)
-[[AirBnB] - Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
+* [[AirBnB] - Accelerating Large-Scale Test Migration with LLMs](https://airbnb.tech/uncategorized/accelerating-large-scale-test-migration-with-llms/)
+* [[AirBnB] - Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
+* [[AirBnB] - Automation Platform v2: Improving Conversational AI at Airbnb](https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb)
 
 ### Infra
 * [[Netflix] - The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
