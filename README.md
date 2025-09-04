@@ -20,6 +20,7 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[AirBnB] - Accelerating Large-Scale Test Migration with LLMs](https://airbnb.tech/uncategorized/accelerating-large-scale-test-migration-with-llms/)
 * [[AirBnB] - Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 * [[AirBnB] - Automation Platform v2: Improving Conversational AI at Airbnb](https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb)
+* [[Uber] - Advancing Invoice Document Processing at Uber using GenAI](https://www.uber.com/blog/advancing-invoice-document-processing-using-genai/?uclick_id=ab0275eb-5ccb-44ee-8228-92e201bf5f32)
 
 ### Infra
 * [[Netflix] - The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
