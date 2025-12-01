@@ -7,14 +7,13 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[Wayfair] - Introducing our Machine Learning and Data Platforms Team](https://www.aboutwayfair.com/careers/tech-blog/introducing-our-machine-learning-and-data-platforms-team)
 * [[Wayfair] - Enabling Supplier Sales Through Real-time Data](https://www.aboutwayfair.com/careers/tech-blog/enabling-supplier-sales-through-real-time-data)**
 * [[AirBnB] - Building a User Signals Platform at Airbnb](https://medium.com/airbnb-engineering/building-a-user-signals-platform-at-airbnb-b236078ec82b) (Lambda)
+* [[AirBnB] - How does Airbnb track and measure growth marketing?](https://medium.com/airbnb-engineering/how-does-airbnb-track-and-measure-growth-marketing-15ee4ce55c5d)
 
 ### Machine Learning
 * [[AirBnB] - Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839)
 * [[Twitter] - Recommendation Algo](https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [[AirBnB] - Listening, Learning, and Helping at Scale: How Machine Learning Transforms Airbnb’s Voice Support Experience](https://airbnb.tech/ai-ml/listening-learning-and-helping-at-scale-how-machine-learning-transforms-airbnbs-voice-support-experience/)
 * [[Netflix] - Recommending for Long-Term Member Satisfaction at Netflix](https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef)
-* [[Uber] - Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/)
-* [[Uber] - Scaling AI/ML Infrastructure at Uber](https://www.uber.com/blog/scaling-ai-ml-infrastructure-at-uber/?uclick_id=ab0275eb-5ccb-44ee-8228-92e201bf5f32)
 
 ### LLMs / AI
 * [[AirBnB] - Accelerating Large-Scale Test Migration with LLMs](https://airbnb.tech/uncategorized/accelerating-large-scale-test-migration-with-llms/)
@@ -22,6 +21,11 @@ Keeping track of interesting engineering blogs I have read and learned from.
 * [[AirBnB] - Automation Platform v2: Improving Conversational AI at Airbnb](https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb)
 * [[Uber] - Advancing Invoice Document Processing at Uber using GenAI](https://www.uber.com/blog/advancing-invoice-document-processing-using-genai/?uclick_id=ab0275eb-5ccb-44ee-8228-92e201bf5f32)
 
+### MLOps / Platform
+* [[Uber] - Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/)
+* [[Uber] - Scaling AI/ML Infrastructure at Uber](https://www.uber.com/blog/scaling-ai-ml-infrastructure-at-uber/?uclick_id=ab0275eb-5ccb-44ee-8228-92e201bf5f32)
+* [[Wayfair] - How Wayfair is reaching MLOps excellence with Vertex AI](https://www.aboutwayfair.com/careers/tech-blog/how-wayfair-is-reaching-mlops-excellence-with-vertex-ai)
+* 
 ### Infra
 * [[Netflix] - The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 * [[Netflix] - Netflix Chaos Monkey Upgraded](https://netflixtechblog.com/netflix-chaos-monkey-upgraded-1d679429be5d)
